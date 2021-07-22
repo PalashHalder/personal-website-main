@@ -2,6 +2,22 @@ body{
     margin: 0px;
     font-family: 'Open Sans', sans-serif;
 }
+.navbar-section{
+    height: 80px;
+}
+.nav-bar{
+    float: right;
+    
+}
+li{
+    display: inline-block;
+    margin: 20px 50px;
+    padding-right: 100px;
+    width: 5px;
+}
+li a{
+    text-decoration: none;
+}
 section{
     height: 500px;;
 }
@@ -57,7 +73,7 @@ p{
 #latest-highlight{
     text-align: center;
     font-size: 40px;
-    padding-top: 10px;
+    padding-top: 20px;
 }
 
 
